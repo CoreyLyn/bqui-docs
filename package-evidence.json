@@ -1,9 +1,9 @@
 {
   "name": "@coreylyn/bqui",
-  "version": "0.1.0-next.1",
-  "sha256": "02daaf114e136eeeb46136ec40c39aca5867d5fe57fb66fa42285807540104ab",
-  "archive": "candidate-02daaf114e13.tgz",
+  "version": "0.1.0-next.2",
+  "sha256": "1df4a0f79c13836aa42607b81c20a2637a6ff171e0f9a16516d2e186ee8e9eb6",
+  "archive": "candidate-1df4a0f79c13.tgz",
   "mode": "registry",
   "registry": "https://registry.npmjs.org",
-  "integrity": "sha512-bbY9FzcdwbYpkw1foxxF5RW2XxnTAvYkoh3HIuJw6Emicfq00YJ4IGdkquOZJKxNFUpDYo4EMRT2RXelpVCsSw=="
+  "integrity": "sha512-GJNTTHxC/cKDsaCZE1yTr7dZjFz+gdsKccDs7qBCpF04BZxaMF+UID9X9TPwkYgLvm20k9quFbf1L5kBUOHtRg=="
 }
